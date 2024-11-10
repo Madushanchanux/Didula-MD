@@ -1,4 +1,4 @@
-2
+
  <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -33,17 +33,36 @@ This is Didula MD, A WhatsApp Bot Created by Didula Rashmika, Enhanced with Amaz
 
 To get started with Didula-MD, follow these steps:
 
-### 1. Fork This Repository
+# Gets Creds.json with pair code
 
-Start by forking this repository to your own GitHub account. Click the button below to fork:
+## [`Connect Whatsapp`](https://pair-site-team-inc-pair.onrender.com/pair)
 
-<a href='https://github.com/itsme-didularashmika/Didula-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+# Now Download Bot SC
 
-### 2. Get Session ID via Pair Code
+## [`Download`](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/itsme-didularashmika/Didula-MD)
 
- Get your `creds.json` and upload ton `session folder`
- 
-<a href='https://pair-site-team-inc-pair.onrender.com/pair' target="_blank"><img alt='Get Creds.json' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+# Open Zip and upload creds.json to Session Folder
+
+## `creds.json` ===>  `session`
+
+# Now upload to panel and start
+
+# Free panels for deploy Didula MD
+
+## [Deploy on Solarhosting)
+](https://account.solarhosting.cc/)
+
+## [Deploy on Witchly Host](https://dash.witchly.host/)
+
+## [Deploy on Optilink](https://optiklink.com/)
+
+## [Deploy on Sillydev](https://panel.sillydev.co.uk)
+
+## [Deploy on  Cloves](https://cloves.mypi.co/)
+
+## [Deploy on Botwa](https://client.botwa.net/login)
+
+## [Deploy on Bot hosting](https://bot-hosting.net/)
 
   # Free panels for deploy Didula MD
 
