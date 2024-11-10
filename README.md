@@ -47,8 +47,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
   # Free panels for deploy Didula MD
 
-## [`✅Deploy on Solarhosting)
-🍀`](https://account.solarhosting.cc/)
+## [`✅Deploy on Solarhosting🍀`](https://account.solarhosting.cc/)
 
 ## [`✅Deploy on Witchly Host🍀`](https://dash.witchly.host/)
 
