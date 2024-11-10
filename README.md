@@ -45,9 +45,22 @@ Start by forking this repository to your own GitHub account. Click the button be
  
 <a href='https://pair-site-team-inc-pair.onrender.com/pair' target="_blank"><img alt='Get Creds.json' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
-## 🚀 Deployment Options
+ # Free panels for deploy Didula MD
 
-## [`Deploy on Free Panel`](https://whatsapp.com/channel/0029VaqqF4GDTkJwKruLSK2f/101)
+## [Deploy on Solarhosting)
+]([https://account.solarhosting.cc/)
+
+## [Deploy on Witchly Host](https://dash.witchly.host/)
+
+## [Deploy on Optilink](https://optiklink.com/)
+
+## [Deploy on Sillydev](https://panel.sillydev.co.uk)
+
+## [Deploy on  Cloves](https://cloves.mypi.co/)
+
+## [Deploy on Botwa](https://client.botwa.net/login)
+
+## [Deploy on Bot hosting](https://bot-hosting.net/)
 
 ## 📞 Connect on WhatsApp
 
