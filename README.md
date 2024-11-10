@@ -47,22 +47,7 @@ To get started with Didula-MD, follow these steps:
 
 # Now upload to panel and start
 
-# Free panels for deploy Didula MD
 
-## [Deploy on Solarhosting)
-](https://account.solarhosting.cc/)
-
-## [Deploy on Witchly Host](https://dash.witchly.host/)
-
-## [Deploy on Optilink](https://optiklink.com/)
-
-## [Deploy on Sillydev](https://panel.sillydev.co.uk)
-
-## [Deploy on  Cloves](https://cloves.mypi.co/)
-
-## [Deploy on Botwa](https://client.botwa.net/login)
-
-## [Deploy on Bot hosting](https://bot-hosting.net/)
 
   # Free panels for deploy Didula MD
 
