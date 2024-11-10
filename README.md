@@ -39,7 +39,7 @@ To get started with Didula-MD, follow these steps:
 
 # Now Download Bot SC
 
-## [`Download`](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/itsme-didularashmika/Didula-MD)
+## [`Download`](https://codeload.github.com/itsme-didularashmika/Didula-MD/legacy.zip/refs/heads/main)
 
 # Open Zip and upload creds.json to Session Folder
 
